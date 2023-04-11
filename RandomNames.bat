@@ -1,7 +1,5 @@
 @ECHO OFF
 ECHO Random Names
-ECHO Written By: Jason Faulkner
-ECHO HowToGeek.com
 ECHO.
 ECHO.
 
